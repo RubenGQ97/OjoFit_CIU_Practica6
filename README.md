@@ -1,4 +1,4 @@
-# OjoFit Practica 6 CIU
+# OjoFit Práctica 6 CIU
 
 ## Rubén García Quintana
 
