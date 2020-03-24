@@ -16,7 +16,7 @@ una captura de vídeo
 
 
 
--Para la realización de la práctica de han creado tres clases; la principal, una para los objetos que hay que atrapar y otra para controlar la colisión y puntos totales. Además se ha dado uso de otras herramientas usadas anteriormente en la asignatura como PShape o el control de colisiones. Por diferentes dificultades a la hora de realizar la práctica finalmente se decidió por realizar una creación de entre 4 y 10 objetos cada 250 ejecuciones del bucle 'draw'.
+- Para la realización de la práctica de han creado tres clases; la principal, una para los objetos que hay que atrapar y otra para controlar la colisión y puntos totales. Además se ha dado uso de otras herramientas usadas anteriormente en la asignatura como PShape o el control de colisiones. Por diferentes dificultades a la hora de realizar la práctica finalmente se decidió por realizar una creación de entre 4 y 10 objetos cada 250 ejecuciones del bucle 'draw'.
 
 ```
 
