@@ -1,5 +1,7 @@
 # OjoFit Practica 6 CIU
-##Rubén García Quintana
+
+## Rubén García Quintana
+
 ## Procesamiento de imagen y vídeo 
 
 ### Introducción
